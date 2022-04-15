@@ -53,7 +53,7 @@ const Cards: React.VFC = () => {
         <Grid item xs={12} md={3} component={Card} className={styles.deaths}>
           <CardContent>
             <Typography color="textSecondary" gutterBottom>
-              <AiFillLike />
+              <GiHastyGrave />
               Dead persons
             </Typography>
             <Typography variant="h5">
